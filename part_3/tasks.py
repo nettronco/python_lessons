@@ -17,5 +17,11 @@ print('% 4.3f '% math.pi, end='\n')
 print('')
 
 print('Task 5')
+print('% 8d '% 124, '% 7d '% 13, sep='')
+print('% 8d '% 56, '% 7d '% 355, sep='')
+print('% 8d '% 587, '% 7d '% 8, sep='')
+print('')
+
+print('Task 6')
 
 print('')
